@@ -1,0 +1,24 @@
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body,div,img {
+	margin: 0px;
+	padding: 0;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none; 
+	-khtml-user-select:none; 
+	-moz-user-select : none; 
+	-ms-user-select : none;
+	user-select:none;
+}
+.stageAct{
+	left: 123px; 
+	top: 46px; 
+	width: 890px; 
+	height: 710px; 
+	right: auto; 
+	bottom: auto;
+	position:absolute;
+}

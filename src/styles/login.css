@@ -1,0 +1,92 @@
+.headImage{
+	background-color:#213F7C !important;
+}
+.headImage img{
+	width:100%;
+}
+.bluestrip{
+	width:100%;
+	color:#ffffff;
+	min-height:2%;
+	max-height:5%;
+	background-color:#213F7C;
+	font-family:calibri;	
+}
+.bluestrip span{
+	font-size:17px;
+	vertical-align:top;
+}
+.insideBody{
+	text-align:center;
+	background-color: #ffffff !important;
+}
+.greenText{
+	padding-left:15px;
+	color:#6F9456;
+	
+}
+.loginTopEmptyBox{
+	background-color: #ffffff !important;
+	height:150px !important;
+}
+.loginContainer{
+		background-color: #ffffff !important;
+		height:545px;
+}
+.greenBox{
+	text-align:center;
+	vertical-align:center;
+	border:1px solid #6F9456;
+	max-width:40%;
+	min-width:30%;
+	display:inline-block;
+	font-family:calibri;
+	background-color: #ffffff !important;
+}
+#textOnBorder{
+	position:absolute;
+	margin-top:-13px;
+	margin-left:-70px;
+	background-color:#ffffff;
+	width:14%;
+	color:#6F9456;
+}
+.loginBock{
+	width:90%;
+	margin: 2% auto;
+}
+.labelLogPass{
+	width:30%;
+	color:#213F7C;
+	font-size:17px;
+	display:inline-block;
+}
+.TextLogPass{
+	width:65%;
+	display:inline-block;
+}
+.loginButtonDiv{
+	width:86%;
+	color:#213F7C;
+	font-size:17px;
+	display:inline-block;
+	text-align:right;
+	padding-right:10px
+}
+#signInButton{
+	margin-top:3%;
+	background-color:#213F7C;
+	border:none;
+	color:#ffffff;
+	padding:2px;
+	width:30%;
+}
+.forgotPasswdLink{
+	padding-top:2%;
+	font-family:calibri;
+	font-size:1em;
+	
+}
+#signInButton{
+	cursor: pointer;
+}
